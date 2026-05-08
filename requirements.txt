@@ -1,0 +1,5 @@
+python-telegram-bot
+mutagen
+pydub
+ffmpeg-python
+audioop-lts

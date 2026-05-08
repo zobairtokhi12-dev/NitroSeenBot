@@ -1,0 +1,8 @@
+python-telegram-bot
+pyrogram
+tgcrypto
+mutagen
+pydub
+requests
+aiohttp
+Pillow

@@ -1,8 +1,2 @@
-pyrogram==2.0.106
-tgcrypto
-python-telegram-bot==13.15
+python-telegram-bot==20.7
 mutagen
-pydub
-requests
-aiohttp
-Pillow
